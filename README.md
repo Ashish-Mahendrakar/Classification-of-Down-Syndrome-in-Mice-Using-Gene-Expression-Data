@@ -1,4 +1,5 @@
 # Classification-of-Down-Syndrome-in-Mice-Using-Gene-Expression-Data
+Note: In ipynb file refer to the part question 2.
 
 
 ## Overview
